@@ -3,19 +3,14 @@
 <!--
 **EvolutionRX/EvolutionRX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+  <h2 align="center" >Hello there ✌</h2>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EvolutionRX)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <br>
+  <img width="400" height="175" src="https://github-readme-stats.vercel.app/api?username=EvolutionRX&show_icons=true&count_private=true&theme=jolly&">  
+</p>
 
 
 
